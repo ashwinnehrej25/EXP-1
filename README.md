@@ -1,3 +1,5 @@
+<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/a1b011cd-b45f-4d24-b7a8-d564a2c04530" />
+<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/3038a1a8-9254-49f1-bba8-3a3cebc471c9" />
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -44,30 +46,41 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/60d9be3a-a42b-42fb-b5f2-c2f94e2fd2a6" />
 
 
 b.  KCL:
  
+<img width="1213" height="582" alt="597331594-1e9ff6f1-8a5a-4e73-922d-b1b106655d21" src="https://github.com/user-attachments/assets/97078804-c179-48a3-a868-a81b155e7590" />
 
 Calculation:
 
 a.   KVL:
  
+<img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/eff64906-8cdf-42ea-97b7-e496a43db695" />
+
+
+
+<img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/9900edd7-8b9e-496d-911a-a3cea00eabe7" />
 
 
 b.  KCL:
 
 
+<img width="1600" height="1200" alt="3" src="https://github.com/user-attachments/assets/42f8846d-9f27-430e-b597-c2149ccd3d4a" />
+
+<img width="1600" height="1200" alt="4" src="https://github.com/user-attachments/assets/84d242ff-701c-49c7-bf6d-c03a35bf4616" />
 
 
 Tabulation:
 
 a.   KVL:
  
+<img width="1600" height="1200" alt="5" src="https://github.com/user-attachments/assets/fac1e00a-1d10-480e-b1f9-ff50cad2a02b" />
 
 
 b.  KCL:
+<img width="1600" height="1200" alt="6" src="https://github.com/user-attachments/assets/128402c1-de27-4ccd-b32e-22ad29d19dd5" />
 
 
 
