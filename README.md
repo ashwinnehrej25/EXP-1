@@ -1,5 +1,4 @@
-<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/a1b011cd-b45f-4d24-b7a8-d564a2c04530" />
-<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/3038a1a8-9254-49f1-bba8-3a3cebc471c9" />
+
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -42,16 +41,10 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
-
-
-a.   KVL:
-<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/60d9be3a-a42b-42fb-b5f2-c2f94e2fd2a6" />
-
-
-b.  KCL:
- 
-<img width="1213" height="582" alt="597331594-1e9ff6f1-8a5a-4e73-922d-b1b106655d21" src="https://github.com/user-attachments/assets/97078804-c179-48a3-a868-a81b155e7590" />
+a.KVL:
+<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/a1b011cd-b45f-4d24-b7a8-d564a2c04530" />
+b.KCL:
+<img width="1220" height="600" alt="597331557-9bb81759-3506-4a66-9b36-0e98903b68ed" src="https://github.com/user-attachments/assets/3038a1a8-9254-49f1-bba8-3a3cebc471c9" />
 
 Calculation:
 
@@ -61,7 +54,8 @@ a.   KVL:
 
 
 
-<img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/9900edd7-8b9e-496d-911a-a3cea00eabe7" />
+<img width="1600" height="699" alt="2" src="https://github.com/user-attachments/assets/5ffa61fc-a499-4a21-ad30-c22bddc79a0c" />
+
 
 
 b.  KCL:
